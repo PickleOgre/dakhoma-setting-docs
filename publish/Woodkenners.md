@@ -1,6 +1,6 @@
 
 > "I am the hill and the valley. I am the rising and setting sun. I am the key and the door. I am the closed fist and open hand."
-> - from *The Invocation of the World Tree* old Skyreach "kenning" or spell
+> - from *The Invocation of the World Tree,* an old Skyreach "kenning" or spell
 
 The woodkenners, a decentralized federation of druids, bards, and priests, are revered as spellcasters and spiritual experts among the indigenous tribes of the Skyreach mountains. These enigmatic figures work closely with the local hunter-gatherers and horticulturalists, sharing and preserving eons of knowledge which they maintain through a rigorous oral tradition. The woodkenners maintain a sacred connection to nature, using their magic to ensure balance and harmony in the region's diverse ecosystems. They are also deeply attuned to the cultural and spiritual needs of Skyreachers, serving as mentors and guides in matters of tradition and wisdom. Despite their influence, the woodkenners remain autonomous, operating through decentralized networks that reflect the tribes' commitment to self-sufficiency and resistance to outside cultural encroachment. Their presence ensures that the Skyreachers' ancient ways endure, blending the power of nature with the wisdom of their ancestors to protect their land and way of life.
 

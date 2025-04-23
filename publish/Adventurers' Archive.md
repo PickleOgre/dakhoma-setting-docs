@@ -1,2 +1,2 @@
-[[Session 0 Record]]
-[[Adventure 1]]
+- [[Session 0 Record]]
+- [[Adventure 1]]

@@ -1,9 +1,9 @@
-[[Knightly Orders of Dakhoma]] 
-[[Skyreachers]] (Skyreach Natives)
-[[Woodkenners]] (Druids, bards, and nature-priests in Skyreach)
-[[Night Folk]] (nocturnal, capricious cave-dwellers)
-[[Fair Folk]] (Angelic creatures who inhabit the heavens)
-[[Wierdkenners]] (Practitioners of rare and forbidden magics)
-[[Thingamajig Society]]  (Magic Item Cult)
-[[Raven Hood's Men of Action]] (A gang of freedom fighters)
-[[Dark Sun Federation]] (A powerful, militant civilization to the East)
+- [[Knightly Orders of Dakhoma]] 
+- [[Skyreachers]] (Skyreach Natives)
+- [[Woodkenners]] (Druids, bards, and nature-priests in Skyreach)
+- [[Night Folk]] (nocturnal, capricious cave-dwellers)
+- [[Fair Folk]] (Angelic creatures who inhabit the heavens)
+- [[Wierdkenners]] (Practitioners of rare and forbidden magics)
+- [[Thingamajig Society]]  (Magic Item Cult)
+- [[Raven Hood's Men of Action]] (A gang of freedom fighters)
+- [[Dark Sun Federation]] (A powerful, militant civilization to the East)
