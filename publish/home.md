@@ -1,4 +1,3 @@
-#dakhoma
 Welcome to Dakhoma.
 
 ## Quick Links
