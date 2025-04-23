@@ -1,26 +1,36 @@
----
-title: "An Extendable Obsidian Publish alternative using Next.JS"
-excerpt: "Create your own template or use someone else's. Changing the template is a matter of updating one line"
----
-Publish your Obsidian Notes with a highly customizable Next.JS blog starter template. Features:
-- Supports most Obsidian syntax (e.g. Link Previews,  Links, etc.). Uses [obsidian-export](https://github.com/zoni/obsidian-export).
-- URLs are based on folder structure
-- Backlinks can be added outside of the markdown files (using the [PreviewLink](https://github.com/matthewwong525/linked-blog-starter/blob/main/components/misc/preview-link.tsx) component)
-- Full-text search
+#dakhoma
+Welcome to Dakhoma.
 
-## [[how-linked-blog-starter-works|How it works]]
-![[how-linked-blog-starter-works]]
+## Quick Links
+[[Agents]]
 
-## Getting Started
-### [[home|Demo]]
-Additionally, you can deploy the example using [Vercel](https://vercel.com/new/git/external?repository-url=https://github.com/matthewwong525/linked-blog-starter&project-name=linked-blog-starter&repository-name=linked-blog-starter) or preview live with [StackBlitz](https://stackblitz.com/github/matthewwong525/linked-blog-starter)
+## Canvas:
+[[Dakhoma Campaign.canvas|Dakhoma Campaign]]
 
-### [[publish-your-obsidian-notes-with-linked-blog-starter|Publish your Obsidian Vault]]
-Click the link above to find out how to publish your own notes!
+## World Lore
+[[Beasts of Dakhoma]]
+[[Masks of Skyreach]] 
+[[Gods of Dakhoma]]
+[[Factions of Dakhoma]]
+[[Tribes of Skyreach]]
+[[Monsters of Skyreach]]
 
-### [[deploy-a-custom-linked-blog-starter|Customize this template]]
-Here is an example of how I [forked this repo](https://github.com/fleetingnotes/fleeting-notes-website) to create a landing page for [Fleeting Notes](https://www.fleetingnotes.app/).
 
-![[fn-website-demo.gif]]
+## Adventurers' Archive
+The troubadours sing the tales of heroes past, and the wizards and weirdkenners put them down in writing. If you are an adventurer, feel free to add your knowledge to the Archive.
+[[Worldbuilding Foundation]]
+[[Adventurers' Archive]]
 
-## Hello World!
+## Tools
+[Fantasy Name Generators](https://www.fantasynamegenerators.com/)
+[Skyreacher Name Generator](https://www.fantasynamegenerators.com/celtic-breton-names.php)
+[Roll for Fantasy](https://rollforfantasy.com/)
+[Donjon](https://donjon.bin.sh/)
+
+## Copyright Info
+Some material in this wiki is copied, and some modified, from:
+_**[Fantasy World RPG](https://fantasyworldrpg.com/)**_ © 2020-2023
+by Alessandro Piroddi, Luca Maiorani, MS Edizioni
+licensed under [**CC BY 4.0**](http://creativecommons.org/licenses/by/4.0/?ref=chooser-v1)
+
+#dakhoma 
