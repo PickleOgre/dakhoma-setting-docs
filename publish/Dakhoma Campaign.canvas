@@ -1,8 +1,8 @@
 {
 	"nodes":[
-		{"id":"008f198e4892d7af","type":"file","file":"Notes/Dakhoma/Tribes of Skyreach.md","x":-720,"y":-80,"width":400,"height":400},
-		{"id":"dd00f7b6bd8d02d3","type":"file","file":"Notes/Dakhoma/home.md","x":-720,"y":-760,"width":400,"height":520},
-		{"id":"fb1728def424f0be","type":"file","file":"Notes/Dakhoma/Factions of Dakhoma.md","x":-120,"y":-720,"width":400,"height":440}
+		{"id":"008f198e4892d7af","type":"file","file":"Notes/Dakhoma/publish/Tribes of Skyreach.md","x":-720,"y":-80,"width":400,"height":400},
+		{"id":"dd00f7b6bd8d02d3","type":"file","file":"Notes/Dakhoma/publish/home.md","x":-720,"y":-760,"width":400,"height":520},
+		{"id":"fb1728def424f0be","type":"file","file":"Notes/Dakhoma/publish/Factions of Dakhoma.md","x":-120,"y":-720,"width":400,"height":440}
 	],
 	"edges":[
 		{"id":"baab053b8c5254f9","fromNode":"dd00f7b6bd8d02d3","fromSide":"right","toNode":"fb1728def424f0be","toSide":"left"},

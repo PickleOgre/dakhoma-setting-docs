@@ -12,7 +12,7 @@ Within a few generations, taverns catering to Flying Vagrants and their flydrago
 
 In time, the Vagrants became official messengers hired out by the taverns to deliver their news to the surrounding areas. To combat any misinformation, a Messengers Guild was established. A mythos began to grow surrounding this guild given its closed off nature to further secure the information that they monitored.
 
-Following this, the Dark Sun Federation began to encroach on the Skyreach mountains, leading to war. As a reaction, the Knights Postaller were established as a faction within the network of Flying Vagrant taverns. Their services were used as frontline messengers and arial forces in the fight to repel the invaders. During the war, the Knights Postaller and Flying Vagrant network took orders from the High Grove, and remained under its authority afterward.
+Following this, the Dark Sun Federation began to encroach on the Skyreach mountains, leading to war. As a reaction, the Knights Postaller were established as a faction within the network of Flying Vagrant taverns. Their services were used as front-line messengers and aerial forces in the fight to repel the invaders. During the war, the Knights Postaller and Flying Vagrant network took orders from the High Grove, and remained under its authority afterward.
 
 ## Structure of the Order
 
