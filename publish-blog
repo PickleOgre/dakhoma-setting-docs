@@ -26,6 +26,7 @@ while true; do
 	    git commit -m '$message'
     else
     	echo "Please enter a commit message."
+        break
     fi
 done
 
