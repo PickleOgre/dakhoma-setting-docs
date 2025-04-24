@@ -31,7 +31,6 @@ while true; do
 done
 
 yes_or_no "Push changes?"
-
 if [ $? -eq 0 ]; then 
 	git push
 else

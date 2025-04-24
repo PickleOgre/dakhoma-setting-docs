@@ -3,7 +3,6 @@
 ## Places
 - [[Oakling Grove]]: an Oakling commune 
 - [[The Troubadour]]: A Local Tavern
-- 
 ## People
 - Mr. Pubbs, tavernkeep at the Troubadour
 - Chad, Rylai's musical rival
