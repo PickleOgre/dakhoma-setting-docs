@@ -9,6 +9,7 @@ Welcome to Dakhoma.
 - [[Factions of Dakhoma]]
 - [[Tribes of Skyreach]]
 - [[Monsters of Skyreach]]
+- [[The Noise]]
 
 
 ## Adventurers' Archive

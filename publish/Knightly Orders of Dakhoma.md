@@ -6,5 +6,3 @@ Knights are bastions of virtue, bestowing guidance, judgment, and retribution up
 - [[Knights Vulgate]] (Healers, Judges, and de facto Police)
 
 
-
-#dakhoma 

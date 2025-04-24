@@ -4,7 +4,7 @@
 
 ## All Skyreachers Wear Masks
 #### The Wilding
-Mask-wearing is one of the most peculiar features of Skyreach culture, and a defining feature of the mountain natives. When a boy or girl reaches the age of about 9 years, a ritual of passage is performed. The ritual varies by tribe, but generally the child is administered a magic potion called wilding water, which allows them to speak to and understand the spirits of any living thing. A woodkenner, preferably an Ovate, facilitates the ritual from beginning to end, sometimes for multiple children at the same time. 
+Mask-wearing is one of the most peculiar practices of Skyreach culture, and a defining feature of the mountain natives. When a boy or girl reaches the age of about 9 years, a ritual of passage is performed. The ritual varies by tribe, but generally the child is administered a magic potion called wilding water, which allows them to speak to and understand the spirits of any living thing. A woodkenner, preferably an Ovate, facilitates the ritual from beginning to end, sometimes for multiple children at the same time. 
 
 When the neophyte has taken a dose of the wilding water, they begin a journey in which they wander in the forest, usually for at least a day. During this time, they can hear the voices of the animals and plants around them, and although the ritual is risky, most folk find the experience incredibly transformative. The first living creature to speak to the child is their mask-creature and later a mask will be made in its image for them to wear. 
 
