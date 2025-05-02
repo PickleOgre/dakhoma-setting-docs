@@ -18,6 +18,7 @@ The troubadours sing the tales of heroes past, and the wizards and weirdkenners 
 - [[Adventurers' Archive]]
 
 ## Tools
+- [Fantasy World SRD](https://fantasyworldrpg.com/) for rules
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/)
 - [Roll for Fantasy](https://rollforfantasy.com/)
 - [Donjon](https://donjon.bin.sh/)
