@@ -1,4 +1,3 @@
-
 > "I am the hill and the valley. I am the rising and setting sun. I am the key and the door. I am the closed fist and open hand."
 > - from *The Invocation of the World Tree,* an old Skyreach "kenning" or spell
 
@@ -32,7 +31,10 @@ Woodkenners revere the tradition of the spoken word, and their traditions are ob
 At Lunar and Solar meetings, the ritual of Litany is practiced, in which an experienced Ovate recites a new kenning to the group. After the recital, two members are selected at random to retell the story. The random nature of the ritual forces all members to pay close attention, and the kenning is added to the memory of all members present.
 
 #### The Doctrine of Quiet Authority
-Woodkenners are forbidden by their most deeply held kennings from holding any kind of permanent offices of leadership.  
+Woodkenners are forbidden by their most deeply held kennings from holding any kind of permanent offices of leadership.  Authority, they say, comes from excellence, not titles.
+
+#### Reincarnation
+The druids believe that when a person dies, their soul passes into the Othereworld, and from there 
 
 #### Mythopoeia, the Secret of the Druids
 
