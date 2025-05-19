@@ -1,6 +1,6 @@
 name: Publish Markdown Files
 env:
-  BLOG_REPO: PickleOgre/dakhoma-setting-docs
+  BLOG_REPO: PickleOgre/fantasy-setting-docs
   PUBLISH_DIR: publish
 on:
   workflow_dispatch:
