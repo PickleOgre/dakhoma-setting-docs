@@ -1,4 +1,4 @@
-Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence.
+Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leavenworth.
 
 ## Quick Links
 - [[Agents]]
