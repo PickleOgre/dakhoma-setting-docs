@@ -25,6 +25,9 @@ The troubadours sing the tales of heroes past, and the wizards and weirdkenners 
 ## Canvas:
 - [[Dakhoma Campaign.canvas]]
 
+## Author:
+Joe Lawrence is a programmer and storyteller from California. You can learn more about Joe [here](jwlawrence.me).
+
 ## Copyright Info
 Some material in this wiki is copied, and some modified, from:
 _**[Fantasy World RPG](https://fantasyworldrpg.com/)**_ © 2020-2023
