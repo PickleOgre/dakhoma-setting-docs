@@ -1,4 +1,4 @@
-Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leavenworth.
+Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
 
 ## Quick Links
 - [[Agents]]
