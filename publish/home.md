@@ -1,7 +1,5 @@
 Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
 
-## Quick Links
-- [[Agents]]
 ## World Lore
 - [[Beasts of Dakhoma]]
 - [[Masks of Skyreach]] 
@@ -17,7 +15,8 @@ The troubadours sing the tales of heroes past, and the wizards and weirdkenners 
 - [[Worldbuilding Foundation]]
 - [[Adventurers' Archive]]
 
-## Tools
+## GM Tools
+- [[Agents]]
 - [Fantasy World SRD](https://fantasyworldrpg.com/) for rules
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/)
 - [Roll for Fantasy](https://rollforfantasy.com/)
