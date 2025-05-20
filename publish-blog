@@ -12,10 +12,10 @@ function yes_or_no {
 echo "Syncing..."
 
 source=$(cat source.txt)
-rsync -av --delete $source /home/joe/projects/linked-blog-obsidian/publish
+rsync -av --delete $source /home/joe/projects/dakhoma-setting-docs/publish
 
 
-cd /home/joe/projects/linked-blog-obsidian
+cd /home/joe/projects/dakhoma-setting-docs
 git add .
 git status
 
