@@ -4,12 +4,12 @@
 The woodkenners, a decentralized federation of druids, bards, and priests, are revered as spellcasters and spiritual experts among the indigenous tribes of the Skyreach mountains. These enigmatic figures work closely with the local hunter-gatherers and horticulturalists, sharing and preserving eons of knowledge which they maintain through a rigorous oral tradition. The woodkenners maintain a sacred connection to nature, using their magic to ensure balance and harmony in the region's diverse ecosystems. They are also deeply attuned to the cultural and spiritual needs of Skyreachers, serving as mentors and guides in matters of tradition and wisdom. Despite their influence, the woodkenners remain autonomous, operating through decentralized networks that reflect the tribes' commitment to self-sufficiency and resistance to outside cultural encroachment. Their presence ensures that the Skyreachers' ancient ways endure, blending the power of nature with the wisdom of their ancestors to protect their land and way of life.
 
 ## Education
-- Apprentices study under an master woodkenner for two years before they are sent to a High Grove, where they are taught the arts of history, poetry, ecology, and more, memorizing tens of thousands of "kennings" or discrete pieces of knowledge.
-- Kennings are memorized using a complex system of indexes and symbols. These symbols are believed to "contain" the knowledge of the kennings and form the basis of Woodkenner spirituality.
+- Children often study under a woodkenner for up to three years, and if they show great promise, they are sent to a Hall of Wisdom, where they are taught the arts of history, poetry, ecology, and more, memorizing tens of thousands of "kennings" or discrete pieces of knowledge.
+- Kennings are memorized using a complex system of symbols and mnemonic devices. These symbols are believed to "contain" the knowledge of the kennings and form the basis of Woodkenner spirituality.
 - Three grades: Bardic training takes three years, Ovate training takes three years, Druid training takes three years.
 
 ## Organization
-Woodkenners Lunar Groves, which hold Sabbats, or meetings, on full moons, and Solar Groves, which hold Sabbats on the Solstices. Lunar Groves are local, consisting of a few towns, and Solar Groves are regional, with representatives of many Lunar Groves in attendance. Finally, the High Grove meets each year on the equinoxes.
+Woodkenners are organized into Lunar Groves, which hold Sabbats, or meetings, on full moons, and Solar Groves, which hold Sabbats on the Solstices. Lunar Groves are local, consisting of a few towns, and Solar Groves are regional, with representatives of many Lunar Groves in attendance. Finally, the High Grove meets each year on the equinoxes.
 
 Each grade holds different kinds of office. Initiated Bards are authorized to educate people and to act as advisors to leaders. Ovates are trained to coordinate group rituals, to facilitate sacrifices, and to cast high-powered spells. Druids hold authority within the order, and their activities and goals are far-seeing and mysterious. 
 
@@ -25,7 +25,7 @@ Stories abound of demons and monsters that spring forth from written letters. A 
 
 Some writings survive from the Ancient days. Weirdkenners believe the wisdom of these writings must be learned and preserved, and have often thwarted Woodkenners' attempts to destroy them.
 
-#### The Living Word, Sacrosanct
+#### The Living Word, Sacred
 Woodkenners revere the tradition of the spoken word, and their traditions are obsessive about the value of memory. For three years, neophytes are trained to become Bards by memorizing thousands of Kennings. 
 
 At Lunar and Solar meetings, the ritual of Litany is practiced, in which an experienced Ovate recites a new kenning to the group. After the recital, two members are selected at random to retell the story. The random nature of the ritual forces all members to pay close attention, and the kenning is added to the memory of all members present.
@@ -34,7 +34,7 @@ At Lunar and Solar meetings, the ritual of Litany is practiced, in which an expe
 Woodkenners are forbidden by their most deeply held kennings from holding any kind of permanent offices of leadership.  Authority, they say, comes from excellence, not titles.
 
 #### Reincarnation
-The druids believe that when a person dies, their soul passes into the Othereworld, and from there 
+The druids believe souls are reincarnated in a spiritual ecosystem that mirrors the physical one. The three parts of human experience - body, life, and mind - pass through endless cycles in which nothing is lost. They say that each soul must see all things, know all things, and suffer all things before passing finally into the Overworld.
 
 #### Mythopoeia, the Secret of the Druids
 
