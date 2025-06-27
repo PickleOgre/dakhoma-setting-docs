@@ -1,0 +1,11 @@
+#dakhoma 
+> "I think it better to do something wearing a mask than to do nothing while wearing a smile." - Raven Hood
+
+## Origin
+When the mountain land of Skyreach was recovering from an invasion by the Dark Sun, there was a Woodkenner who set himself apart from the others. His ideas would shock the world of Skyreach, and all would call him Anathema.
+
+According to the Woodkenners, Elmic son of Elric, of the house of Estiborne, came into their ranks too late in life. His father Elric was a knight, who died in service of the Gaisedai, and whose dying wish was for Elmic to be trained as a Woodkenner, so that he would not have to lead a life of violence. Elmic donned the robes of a Novice at the age of 13, becoming a member of Skemish Grove, and quickly advanced through his Bardic and Vatic training. His master, the honorable Samte, pronounced him ready to begin his training as a Druid in his twentieth year. Elric was twenty-two when he submitted his masterwork for the judgment of the High Grove, who would determine whether he was worthy to be called a Druid.
+
+The High Grove was shocked when they saw what Elmic had created. What exactly his masterwork was, the Woodkenners never tell, for the High Grove did not reveal its nature. Some have speculated that he built some artifact with Weird power. Elmic was reprimanded and his creation confiscated and hidden away in some secret place, and he was not permitted to attain the grade of Druid. Outraged, Elmic abandoned the Order and wandered the Great North Woods alone for a time, coming at last to a hidden shrine of the ancient world.
+
+The rest of the tale is told only by Raven Hood and his followers. It was in that cold metallic place that Elmic died, and Raven Hood was born. The mask of an ancient god appeared to him, and when he put it on, it consumed him. Most believe that Elmic's soul was lost that day, becoming an avatar of the mask. Raven Hood leads a gang of vigilante bandits, targeting high-ranking Woodkenners and Dark Sun troops. He calls himself a freedom fighter, and his followers believe their lawlessness serves a higher cause. Only time will tell.

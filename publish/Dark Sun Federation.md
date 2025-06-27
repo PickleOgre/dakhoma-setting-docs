@@ -9,5 +9,7 @@ Annaeus was persecuted for his teachings, even jailed for a time, but his discip
 In each of the three cities was vested a portion of the powers of Government. Golmira, due to its industry and military prowess, became the Executive City. Bonna became the City of Judges. Porta Papyra, the City of Paper, became the seat of legislature.
 
 ## Internal Struggles
-In the 343rd year of the Dark Sun, the Presidio of Golmira allowed some duties of the Executive City to be handled by private police forces.  This is believed to be one of the inciting incidents that caused the current ongoing power struggle between the three cities. With Golmira seeking ever greater legal powers and Bonna and Papyra fighting to preserve their role while fearing the retribution of Golmira's forces, the Dark Sun Federation creeps ever closer to imperial rule.
+In the 343rd year of the Dark Sun, the Presidio of Golmira allowed some duties of the Executive City to be handled by private police forces.  This is believed to be one of the inciting incidents that caused the current ongoing power struggle between the three cities. With Golmira seeking ever greater legal powers and Bonna and Papyra fighting to preserve their role while fearing the retribution of Golmira's forces, the Dark Sun Federation creeps ever closer to authoritarian rule.
 
+## Empire
+The Dark Sun Federation encompasses the entire known world. Thirty years ago, the Federation added Skyreach to its massive bulk, establishing a permanent presence throughout the mountain range. The practice of Draking, or industrial dragon hunting, has left the territory around the Three cities nearly devoid of dragons, and hunts will likely expand further into the mountains.

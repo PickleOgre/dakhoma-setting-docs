@@ -11,16 +11,19 @@ Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leave
 
 
 ## Adventurers' Archive
-The troubadours sing the tales of heroes past, and the wizards and weirdkenners put them down in writing. If you are an adventurer, feel free to add your knowledge to the Archive.
+The troubadours sing the tales of heroes past, and the wizards and weirdkenners put them down in writing.
 - [[Worldbuilding Foundation]]
 - [[Adventurers' Archive]]
 
 ## GM Tools
-- [[Agents]]
+- [[Agents & Prep]]
+- [[Names List, Dakhoma]]
+- [[Dakhoma Plans and Notes]]
 - [Fantasy World SRD](https://fantasyworldrpg.com/) for rules
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/)
 - [Roll for Fantasy](https://rollforfantasy.com/)
 - [Donjon](https://donjon.bin.sh/)
+- [Interactive National Map](https://apps.nationalmap.gov/viewer/)
 
 ## Canvas:
 - [[Dakhoma Campaign.canvas]]

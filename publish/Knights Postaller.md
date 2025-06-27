@@ -1,6 +1,6 @@
 The **Knights Postaller** are an order of messengers whose oath prohibits lying, and whose members are revered for their ability to detect any falsehood. Their symbol is a Pigeon (a sacred, extinct animal of the old world), and their towers can be seen all over the Skyreach mountains.
 
-## Origin of the Knights Postaller
+## Origins
 
 The first records of tamed flydragons came from a group of nomads externally referred to as Vagrants. The Vagrants were relied on to deliver news to the villagers and towns they visited, often using knowledge of the outside world for the purpose of trade and bartering.
 
