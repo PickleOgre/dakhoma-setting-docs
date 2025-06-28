@@ -50,4 +50,3 @@ They hunt by lying still near river banks, waiting for prey to approach. Their b
 
 
 
-#setting #dakhoma 

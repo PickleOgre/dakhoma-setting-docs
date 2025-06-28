@@ -23,7 +23,7 @@ while true; do
     echo "Commit message:"
     read  message
     if [ -n "$message" ]; then 
-	    git commit -m '$message'
+	    git commit -m "$message"
         break
     else
     	echo "Please enter a commit message."

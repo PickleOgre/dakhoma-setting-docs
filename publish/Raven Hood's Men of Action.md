@@ -1,4 +1,3 @@
-#dakhoma 
 > "I think it better to do something wearing a mask than to do nothing while wearing a smile." - Raven Hood
 
 ## Origin

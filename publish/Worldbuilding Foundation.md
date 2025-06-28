@@ -32,5 +32,3 @@ NO:
 - Bows  
 - Direct Proof of Gods  
 - Traditionally Domesticated Animals  
-  
-[#dakhoma](https://keep.google.com/u/0/#label/dakhoma)
