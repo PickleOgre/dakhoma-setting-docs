@@ -4,7 +4,7 @@
 
 **Flydragon**: Huge dragonflies capable of carrying a child or small adult, these winged insects are commonly used by couriers for swift transport over mountainous terrain. Unlike a swayback, riding a flydragon in inclement weather is difficult to impossible, and they are usually not large enough to carry more than 200 pounds effectively. Thus, smaller, leaner individuals are usually selected as messengers. See Meganeura
 
-**Enkida**: Armored herbivorous reptilian tetrapods. Domesticated enkidu females are docile and able to carry heavy loads. See Pareiasaur.
+**Enkida**: Armored herbivorous reptilians. Domesticated enkidu females are docile and able to carry heavy loads. See Pareiasaur.
 
 ## Predators
 **Gorgons**: large sabertooth lizards with powerful axe-shaped jaws, possessing extreme speed and strength. Compare to Gorgonopsids of the late Permian
@@ -25,7 +25,7 @@
 
 ## Elsewhales
 
-Elsewhales are massive creatures that can dwarf entire villages, who fly through the skies by unknown means. They are primarily native to the lowlands west of the Skyreach mountains, which are subject to heavy rains that leave the environment wet and muddy. The Elsewhales spend much of their lives in these vast marshlands, but will often journey westward where they will mate at the lower sections of the mountains. The males leave back to the marshlands while the females remain in the vicinity of the mountains, returning to give birth to their young. The babies are born unable to fly and spend their first couple weeks at the base of the mountains where the land is more agreeable and predators are less numerous. When the young have learned to fly, the mothers depart with them back to the western marshes.
+Elsewhales are massive creatures that can dwarf entire villages, who fly through the skies by unknown means. They are primarily native to the lowlands west of the Skyreach mountains, which are subject to heavy rains that leave the environment wet and muddy. The Elsewhales spend much of their lives in these vast marshlands, but will often journey westward where they will mate at the lower sections of the mountains. The males leave back to the marshlands while the females remain in the vicinity of the mountains, returning to give birth to their young. The babies are born unable to fly and spend their first couple weeks in the shallow wetlands where the land is more agreeable and predators are less numerous. When the young have learned to fly, the mothers depart with them back to the western marshes.
 
 It is believed that the whales communicate with each other, since many who witness the creatures claim that deep and melodic humming originates from them.
 ## Carrion Raptor
@@ -47,6 +47,9 @@ In the present day, backhoppers have been domesticated and serve as hunting pets
 Axe-head Salamanders are large and lumbering ambush predators found in the creeks and rivers of the Skyreach mountains. They spend their first years as juveniles within the caves of the mountains, before venturing out and living in the surrounding water-ways. They rarely leave the water unless two males fight for territory or the right to mate. They are slow-moving on land, but relatively fast in the water.
 
 They hunt by lying still near river banks, waiting for prey to approach. Their broad heads and powerful jaws ensure that they find their mark and do not lose it, where they then drag their catch down to the deep ends of the river, drowning it if they aren't already dead. They do not go out of their way to hunt humans, but have been known to kill them.
+
+# Arms of the Siren
+
 
 
 

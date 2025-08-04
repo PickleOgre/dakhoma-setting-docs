@@ -1,0 +1,1 @@
+The Troubadour is a tavern in the town of Kreff, run by Mr. Pubbs. Upon entering the door, all patrons are expected to relinquish their weapons, especially since it is considered taboo to into a space of hospitality while bearing weapons. 

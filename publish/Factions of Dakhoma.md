@@ -4,7 +4,6 @@
 - [[Night Folk]] (nocturnal, capricious cave-dwellers)
 - [[Fair Folk]] (Angelic creatures who inhabit the heavens)
 - [[Wierdkenners]] (Practitioners of rare and forbidden magics)
-- [[Thingamajig Society]]  (Magic Item Cult)
+- [[Thingamajig Society]] (Magic Item Cult)
 - [[Raven Hood's Men of Action]] (A gang of freedom fighters)
 - [[Dark Sun Federation]] (A powerful, militant civilization to the East)
-- [[Tribes of Skyreach]]

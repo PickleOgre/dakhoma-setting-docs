@@ -1,4 +1,4 @@
-## Pantheon of Skyreach
+# Pantheon of Skyreach
 #### The Great Three
 - Sky Father: [[#Dzios]] the Blue Sky
 - Earth Mother: [[#Dakhoma]] Allmother
@@ -24,14 +24,15 @@
 
 #### Dakhoma
 - Epithets: Allmother, Mother Earth, Broad One 
-- Animals: Snakes, Rabbits
+- Animals: Snakes, Rabbits, Bees
 Holy Days: Fridays, Spring Equinox
 - Description: Worship of Dakhoma varies widely. Usually she is the wife or consort of Dzios, but in the religion of the Dark Sun, she is believed to be dead, slain by Dzios himself. She rules over the earth and is regarded as the matriarch of all life. She is a brewer of mead and ale, and prayers are given to her in thanks for fermenting grain and honey.
 #### Dzios
-- Epithets: Allfather, The Daylight Sky, Sun King, Heavenly Father, All-Wise
-- Animals: Flydragon, Enkida
+- Epithets: Allfather, The Daylight Sky, Sun King, the Good God, Heavenly Father, All-Wise
+- Animals: Flydragon
 - Holy Days: Mondays, Summer Solstice
-- Description: Dzios rules the world of the daytime. He is first and foremost a god of craftsmanship, who crafted the first living creatures from clay. In the Dark Sun Caliphate, Dzios is worshiped as lord over all the gods, and some of their priests even deny the existence of any other god.
+- Description: Dzios rules the world of the daytime. He is the chief of the gods and the husband of Dakhoma. He is first and foremost a god of hospitality, oaths, wisdom, and agriculture. Traditionally, Dzios is given offerings of the firstfruits of the harvest. He is a druid, and his staff can kill with one end and heal with the other. He carries a magic cauldron which is always full of food, and a harp which causes the seasons to come in their proper order. 
+- In the Dark Sun Caliphate, Dzios is worshiped as lord over all the gods, and some of their priests even deny the existence of any other god.
 
 #### Hyesha
 - Epithets: Twin Daughter, Red-Haired, Morningstar/Evenstar
@@ -49,13 +50,13 @@ Holy Days: Fridays, Spring Equinox
 - Epithets: The Thunderer, God of Oaks, Lightning Lord
 - Animals: Hawks, Dragons 
 - Holy days: Thursdays, Autumn Equinox
-- Description: Thiernos means third, for Thiernos was the third human in the world, and is the son of Manu, the first man. He was a dragon-rider and demon-slayer, the first warrior. He killed his sister, the flaming wolf-demon Balrash, and cast her into a pit. He is also the lord of the harvest, and traditionally receives offerings of the firstfruits of the harvest.
+- Description: Thiernos means third, for Thiernos was the third human in the world, and is the son of Manu, the first man. He was a dragon-rider and demon-slayer, the first warrior. He killed his sister, the flaming wolf-demon Balrash, and cast her into a pit. Thiernos has the power to control the weather, and can call down lightning with his magic hammer.
 
 #### The Morgaine
 - Epithets: Phantom Queens, Three-Face, Saints of Death
 - Animals: Crows, Spiders
 - Holy days: Samhain
 - Description: The Morgaine is one, and the Morgaine are three. Her name means "Great Queen" and she has been called the Phantom Queen and Banshee. She is the daughter of Dakhoma and Dzios. She is associated with death, battle, warfare, magic, change, prophecy and fate. Among all the gods, she is one of the most active in the affairs of men. She is a shapeshifter, sometimes taking the form of a young or old woman, sometimes a crow or raven, wolf, eel, or swayback.
-	- Bahv the Black is called the Battle-Crow. She is a goddess of war, strategy, and fate. She cries out in battle to foretell the doom of soldiers, dances on the spear points and shield sof the army destined for victory, and lingers in the wasteland to feed on the slain.
+	- Bahv the Black is called the Battle-Crow. She is a goddess of war, strategy, and fate. She cries out in battle to foretell the doom of soldiers, dances on the spear points and shields of the army destined for victory, and lingers in the wasteland to feed on the slain.
 	- Macha the White is the goddess of land and sovereignty. She is the source of the divine right of rulership, called upon to protect the land and its people, and to depose those who have broken their vow to the Otherworld.
 	- Naven the Red is the goddess of battle-fury, bloodlust and strife. She is the shrieker, the beinger of terror and frenzy.

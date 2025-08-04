@@ -37,10 +37,11 @@ Masks are beloved by their owners and come in many forms. You can generate a ran
 | 7   | Monstrous    |
 | 8   | Other Animal |
 
-| D4  | Material          |
+| D6  | Material          |
 | --- | ----------------- |
 | 1   | Wood              |
 | 2   | Face Paint/Tattoo |
 | 3   | Cloth/Felt        |
 | 4   | Metal             |
+| 5   | Chitin            |
 

@@ -1,3 +1,0 @@
-- [[K'reff]]: A small town in Skyreach.
-- [[Scales of Behemoth]]: Nomadic swayback herdsfolk.
-- [[Oaklings]]: Scattered groups of plantlike humanoids who venerate trees.

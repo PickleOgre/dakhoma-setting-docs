@@ -30,9 +30,6 @@ Woodkenners revere the tradition of the spoken word, and their traditions are ob
 
 At Lunar and Solar meetings, the ritual of Litany is practiced, in which an experienced Ovate recites a new kenning to the group. After the recital, two members are selected at random to retell the story. The random nature of the ritual forces all members to pay close attention, and the kenning is added to the memory of all members present.
 
-#### The Doctrine of Quiet Authority
-Woodkenners are forbidden by their most deeply held kennings from holding any kind of permanent offices of leadership.  Authority, they say, comes from excellence, not titles.
-
 #### Reincarnation
 The druids believe souls are reincarnated in a spiritual ecosystem that mirrors the physical one. The three parts of human experience - body, life, and mind - pass through endless cycles in which nothing is lost. They say that each soul must see all things, know all things, and suffer all things before passing finally into the Overworld.
 

@@ -1,12 +1,13 @@
 Welcome to Dakhoma, a high Celtic fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
 
 ## World Lore
-- [[Beasts of Dakhoma]]
-- [[Masks of Skyreach]] 
+- [[Masks of Skyreach]]
 - [[Gods of Dakhoma]]
+- [[Realms of Dakhoma]]
 - [[Factions of Dakhoma]]
-- [[Tribes of Skyreach]]
+- [[Beasts of Dakhoma]]
 - [[Monsters of Skyreach]]
+- [[Magic of Dakhoma]]
 - [[The Noise]]
 
 
@@ -19,6 +20,7 @@ The troubadours sing the tales of heroes past, and the wizards and weirdkenners 
 - [[Agents & Prep]]
 - [[Names List, Dakhoma]]
 - [[Dakhoma Plans and Notes]]
+- [[Skyreach Dungeon Ideas]]
 - [Fantasy World SRD](https://fantasyworldrpg.com/) for rules
 - [Fantasy Name Generators](https://www.fantasynamegenerators.com/)
 - [Roll for Fantasy](https://rollforfantasy.com/)
@@ -29,7 +31,7 @@ The troubadours sing the tales of heroes past, and the wizards and weirdkenners 
 - [[Dakhoma Campaign.canvas]]
 
 ## Author:
-Joe Lawrence is a programmer and storyteller from California. You can learn more about Joe [here](jwlawrence.me).
+Joe Lawrence is a programmer and storyteller. You can learn more about Joe on his website [here](jwlawrence.me).
 
 ## Copyright Info
 Some material in this wiki is copied, and some modified, from:
