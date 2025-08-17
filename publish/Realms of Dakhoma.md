@@ -6,8 +6,8 @@ The earth recovered, as she always does, and as life flourished again, so did hu
 The period called Anthropocene is at an end. The destiny of the world is no longer shaped by mankind, for the race who inherited the Earth long ago forfeited it by his hubris. At the end of the Dragon War, the wise men predicted that the world would enter a new age: the Age of Trees. Humanity dwindled, subject to predation by dragons of their own making, temperatures and humidity continued to rise, and the constitution of the air became more suitable for vegetative growth. The Realms of the world are dominated by the all-encompassing Green, and the mighty race of trees holds power in most of the world, regarding the mammalian humans as primitive savages. In the western continent of Americadia, humans and their relatives still hold sway. In the North, the Dark Sun Federation has established itself as the last bastion of human dominion and pride, standing at the precipice between republic and empire. To the south, Skyreach sleeps quietly, growing as her people grow, content and abundant.
 
 ## Kingdoms and Realms
-[[Skyreach]]
-[[Dark Sun Federation]]
+- [[Skyreach]]
+- [[Dark Sun Federation]]
 
 ## Regions within Skyreach
-[[The Argent Moor]]
+- [[The Argent Moor]]

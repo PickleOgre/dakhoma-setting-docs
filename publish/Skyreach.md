@@ -8,5 +8,5 @@ Skyreacher society is based on strict adherence to the duties of one's social cl
 - [[Scales of Behemoth]]: Nomadic swayback herdsfolk.
 - [[Oaklings]]: Scattered groups of humans who venerate trees.
 
-## Biomes
-[[Skyreach Temperate Rainforest]]
+## Climate
+The south is mostly dominated by the [[Skyreach Temperate Rainforest]] biome, while the southeast is mainly plains and wetland. Northern skyreach is more populous and the mountains smaller and less treacherous. The forests there are warmer and drier, populated by deciduous trees.

@@ -1,4 +1,4 @@
-Welcome to Dakhoma, a high fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
+Welcome to Dakhoma, a Celtic-inspired hidden-fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
 
 ## World Lore
 - [[Masks of Skyreach]]
@@ -8,6 +8,7 @@ Welcome to Dakhoma, a high fantasy world by Joe Lawrence and Thomas Leavenworth.
 - [[Beasts of Dakhoma]]
 - [[Monsters of Skyreach]]
 - [[Magic of Dakhoma]]
+- [[Skyreach Temperate Rainforest]]
 ## Adventurers' Archive
 The troubadours sing the tales of heroes past, and the wizards and weirdkenners put them down in writing.
 - [[Worldbuilding Foundation]]
