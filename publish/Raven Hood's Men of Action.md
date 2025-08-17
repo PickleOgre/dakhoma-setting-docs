@@ -1,4 +1,5 @@
-> "I think it better to do something wearing a mask than to do nothing while wearing a smile." - Raven Hood
+> "I think it better to do something wearing a mask than to do nothing while wearing a smile."
+> - Raven Hood
 
 ## Origin
 When the mountain land of Skyreach was recovering from an invasion by the Dark Sun, there was a Woodkenner who set himself apart from the others. His ideas would shock the world of Skyreach, and all would call him Anathema.

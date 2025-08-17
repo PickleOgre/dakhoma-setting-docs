@@ -7,3 +7,6 @@ Skyreacher society is based on strict adherence to the duties of one's social cl
 - [[K'reff]]: A small town in Skyreach.
 - [[Scales of Behemoth]]: Nomadic swayback herdsfolk.
 - [[Oaklings]]: Scattered groups of humans who venerate trees.
+
+## Biomes
+[[Skyreach Temperate Rainforest]]

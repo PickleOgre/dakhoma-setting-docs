@@ -7,8 +7,6 @@
 **Enkida**: Armored herbivorous reptilians. Domesticated enkidu females are docile and able to carry heavy loads. See Pareiasaur.
 
 ## Predators
-**Gorgons**: large sabertooth lizards with powerful axe-shaped jaws, possessing extreme speed and strength. Compare to Gorgonopsids of the late Permian
-
 **Bofu**: Croc-like amphibian ambush predators. Compare to Uranocentrodon
 
 **Not-Deer:** Apparently an ordinary deer at first glance, this beast has a sharp set of teeth like a jackal. Capable of running at impressive speeds, a pack of not-deer can easily overpower a human warrior.
@@ -30,7 +28,7 @@ Elsewhales are massive creatures that can dwarf entire villages, who fly through
 It is believed that the whales communicate with each other, since many who witness the creatures claim that deep and melodic humming originates from them.
 ## Carrion Raptor
 
-Carrion raptors are not unlike the world's dragons, only much smaller, bearing legs, and unable to spew. Carrion raptors can grow to the size of a human, and can fly for many miles before having to land. They are the primary form of carrion creatures in the Skyreach Mountains and are not very dangerous. They are lizard-like in appearance, with a broad and pointed head with sharp teeth in order to rip flesh and gnash bones, but their nature as scavengers means that few encounters with them have ever posed any danger. Only as long as one is not cornered or challenged for food, they are relatively docile, especially to humans.
+Carrion raptors are not unlike the world's dragons, only much smaller, bearing legs, and unable to spew fire. Carrion raptors can grow to the size of a human, and can fly for many miles before having to land. They are the primary form of carrion creatures in the Skyreach Mountains and are not very dangerous. They are lizard-like in appearance, with a broad and pointed head with sharp teeth in order to rip flesh and gnash bones, but their nature as scavengers means that few encounters with them have ever posed any danger. Only as long as one is not cornered or challenged for food, they are relatively docile, especially to humans.
 
 ## Poly Pods
 
