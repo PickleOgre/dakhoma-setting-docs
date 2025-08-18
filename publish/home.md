@@ -1,4 +1,4 @@
-Welcome to Dakhoma, a Celtic-inspired hidden-fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
+Welcome to Dakhoma, a Celtic-inspired mythic fantasy world by Joe Lawrence and Thomas Leavenworth. Don't forget to wear a mask.
 
 ## World Lore
 - [[Masks of Skyreach]]
