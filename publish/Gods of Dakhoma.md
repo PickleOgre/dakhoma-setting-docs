@@ -8,7 +8,7 @@
 - Underworld/Ocean ruler: Naphtomos the Shaker
 - Dawn Goddess: [[#Hyesha]] the Red Sky
 - Craftsman: Waylan the Blacksmith
-- Night Goddess: Morghasa Three-Faces
+- Night Goddess: Morgaine Three-Faces
 - Sun and Moon: Sokhol and Mehnes
 - Wanderer God: [[#Grimnos]] the Stranger
 
